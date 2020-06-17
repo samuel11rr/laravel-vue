@@ -7,6 +7,8 @@
 
                     <div class="card-body">
                         I'm an example component.
+                        <br>
+                        Edited by Samuel
                     </div>
                 </div>
             </div>
