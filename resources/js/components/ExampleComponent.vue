@@ -9,6 +9,12 @@
                         I'm an example component.
                         <br>
                         Edited by Samuel
+
+                        <p>
+                            <a href="http://www.youtube.com/watch?v=QW4dMbFxv3c&t=10m50s" target="_blank">
+                                Guía
+                            </a>
+                        </p>
                     </div>
                 </div>
             </div>
